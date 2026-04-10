@@ -31,7 +31,8 @@ This project detects whether a message is **Spam or Not Spam** using Machine Lea
 ---
 
 ## 📊 Output
-(Add screenshot here later)
+![output](https://github.com/user-attachments/assets/4cdc5848-b02c-4405-a90f-16dde94833c3)
+
 
 ---
 
