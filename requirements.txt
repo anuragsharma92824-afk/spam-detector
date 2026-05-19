@@ -1,0 +1,5 @@
+Pandas
+Scikit-Learn
+Matplotlib
+Pyttsx3
+email-Validator
