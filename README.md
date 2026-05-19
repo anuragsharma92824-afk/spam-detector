@@ -36,7 +36,7 @@ An intelligent Spam Detection System developed using Machine Learning and Python
 
 ## 🖼️ Screenshots
 ### Main GUI
-![Main GUI](Maingui.png)
+![Main GUI](gui.png)
 
 ### Spam Detection Output
 ![Spam Output](spammessage.png)
@@ -48,7 +48,7 @@ An intelligent Spam Detection System developed using Machine Learning and Python
 ![Graph](graph.png)
 
 ### Email Validation
-![Email Validation](invalidemail.png)
+![Email Validation](email.png)
 
 ---
 
