@@ -50,7 +50,7 @@ An intelligent Spam Detection System developed using Machine Learning and Python
 ### Email Validation
 ![Email Validation](email.png)
 
-### Email Validation
+### Dark Mode
 ![Email Validation](darkmode.png)
 ---
 
