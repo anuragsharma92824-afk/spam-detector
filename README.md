@@ -56,6 +56,9 @@ An intelligent Spam Detection System developed using Machine Learning and Python
 
 ## 📄 Research Paper
 The research paper related to this project is included in this repository.
+## DOI:
+https://doi.org/10.5281/zenodo.20519373
+
 [View Research Paper](research_paper.pdf)
 
 
